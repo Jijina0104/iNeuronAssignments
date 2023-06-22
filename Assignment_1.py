@@ -25,7 +25,6 @@ What is the difference between string and variable?
 '''
 
 '''
-'''
 Answer:
 
 Variables: Variable is a name given to a data object to store its value in the memory.
@@ -33,6 +32,7 @@ String: String is one of the data types or objects, which represents a sequence 
 quotes
 
 '''
+
 name = "Jijina"
 name = "Ranjith"
 
@@ -41,14 +41,14 @@ In the above example, the string variable 'name' holds the value "Jijina", when 
 When the second assignment statement is executed, it creates a new string variable 'name' with value "Ranjith".
 That means value of existing string variable cannot be changed ex. Jijina cannot be changed to Vijina by using operations
 such as name[0]='V'. It replaces the entire string value by recreating the object itself.
-''' 
-
-print(name)
 '''
+print(name)
 '''
 Question 3:
 Describe three different data types.
+
 '''
+
 '''
 Answer:
 
